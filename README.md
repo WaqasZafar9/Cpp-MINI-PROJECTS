@@ -1,2 +1,2 @@
-# C-MINI-PROJECTS
+# C++-MINI-PROJECTS
 Cpp Mini projects 
